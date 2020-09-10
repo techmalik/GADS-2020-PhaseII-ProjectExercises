@@ -5,40 +5,37 @@
   <img src="Screenshots/Lab 1 Getting Started with Cloud Marketplace.png">
 <summary>
   
-  <summary>Lab 2: Getting Started with Cloud Marketplace
+<summary>Lab 2: Google Cloud Fundamentals - Getting Started with Compute Engine
   <img src="Screenshots/Lab 2 Google Cloud Fundamentals - Getting Started with Compute Engine.png">
-
 <summary>
   
-  <summary>Lab 3: Getting Started with Cloud Marketplace
+<summary>Lab 3: Getting Started with Cloud Storage and Cloud SQL
   <img src="Screenshots/Lab 3 Getting Started with Cloud Storage and Cloud SQL.png">
 <summary>
   
-  <summary>Lab 4: Getting Started with Cloud Marketplace
+<summary>Lab 4: Getting Started with GKE
   <img src="Screenshots/Lab 4 Getting Started with GKE.png">
 <summary>
   
-  <summary>Lab 5: Getting Started with Cloud Marketplace
+<summary>Lab 5: Getting Started with App Engine
   <img src="Screenshots/Lab 5 Getting Started with App Engine.png">
 <summary>
   
-  <summary>Lab 6: Getting Started with Cloud Marketplace
+<summary>Lab 6: Getting Started with Deployment Manager and Cloud Monitoring
   <img src="Screenshots/Lab 6 Getting Started with Deployment Manager and Cloud Monitoring.png">
 <summary>
   
-  <summary>Lab 7: Getting Started with Cloud Marketplace
+<summary>Lab 7: Getting Started with BigQuery
   <img src="Screenshots/Lab 7 Getting Started with BigQuery.png">
 <summary>
   
-  <summary>Lab 8: Getting Started with Cloud Marketplace
+<summary>Lab 8: Infrastructure Preview
   <img src="Screenshots/Lab 8 Infrastructure Preview.png">
 <summary>
   
-  <summary>Lab 9: Getting Started with Cloud Marketplace
+<summary>Lab 9: VPC Networking
   <img src="Screenshots/Lab 9 VPC Networking.png">
 <summary>
-  
-  
   
 </details>
 
