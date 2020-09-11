@@ -57,7 +57,7 @@
 
 <details>
 <summary>Lab 12: (Translation) Virtual Private Network (VPN)</summary>
-<img src="Screenshot/Lab 12 Virtual Private Network (VPN).png">
+<img src="Screenshots/Lab 12 (Translation) Virtual Private Network (VPN).png">
 </details>
 ..............................................................................................................
 
