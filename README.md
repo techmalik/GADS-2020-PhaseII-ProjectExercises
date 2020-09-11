@@ -146,9 +146,9 @@ export LB_IP=34.120.183.99
 
 ab -n 500000 -c 1000 http://$LB_IP/
 ```
-</detail>
+</details>
 
 
 <details>
 <summary>Translation Code 2: Lab 12 </summary>
-</detail>
+</details>
