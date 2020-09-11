@@ -151,8 +151,4 @@ ab -n 500000 -c 1000 http://$LB_IP/
 
 <details>
 <summary>Translation Code 2: Lab 12 </summary>
-
-klkl;k;lkl;;l
-
-
 </detail>
