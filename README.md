@@ -54,9 +54,11 @@
 <summary>Lab 11: (Translation) Configuring an HTTP Load Balancer with Autoscaling</summary>
 <img src="Screenshots/Lab 11 (Translation) Configuring an HTTP Load Balancer with Autoscaling.png">
 </details>
+..............................................................................................................
 
+## Translation Codes
 <details>
-<summary>## Translation Code 1: Lab 11 Configuring an HTTP Load Balancer with Autoscaling </summary>
+<summary>Translation Code 1: Lab 11 Configuring an HTTP Load Balancer with Autoscaling </summary>
 
 1. Configure HTTP and health check firewall rules:
 ```
@@ -148,9 +150,9 @@ ab -n 500000 -c 1000 http://$LB_IP/
 
 
 <details>
-<summary>## Translation Code 2: Lab 12 </summary>
+<summary>Translation Code 2: Lab 12 </summary>
 
-
+klkl;k;lkl;;l
 
 
 </detail>
