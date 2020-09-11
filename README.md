@@ -1,4 +1,4 @@
-# GADS-2020-PhaseII-ProjectExercises
+# GADS-2020-PhaseII-ProjectExercises: Qwiklabs Completed
 ### Submissions of Phase II GADS Cloud Programme.
 <details>
 <summary>Lab 1: Getting Started with Cloud Marketplace</summary>
