@@ -59,7 +59,7 @@
 ## Translation Codes
 <details>
 <summary>Translation Code 1: Configuring an HTTP Load Balancer with Autoscaling </summary>
-
+<br>
 
 1. Configure HTTP and health check firewall rules:
 ```
@@ -152,9 +152,9 @@ ab -n 500000 -c 1000 http://$LB_IP/
 
 <details>
 <summary>Translation Code 2: Virtual Private Networks (VPN) </summary>
+<br>	
 	
-	
-1 Reserving Static-IP
+1. Reserving Static-IP
 ```
 gcloud compute addresses create vpn-1-static-ip --project=qwiklabs-gcp-04-1282b30f1f22 --region=us-central1
 
