@@ -54,6 +54,11 @@
 <summary>Lab 11: (Translation) Configuring an HTTP Load Balancer with Autoscaling</summary>
 <img src="Screenshots/Lab 11 (Translation) Configuring an HTTP Load Balancer with Autoscaling.png">
 </details>
+
+<details>
+<summary>Lab 12: (Translation) Virtual Private Network (VPN)</summary>
+<img src="Screenshot/Lab 12 Virtual Private Network (VPN).png">
+</details>
 ..............................................................................................................
 
 ## Translation Codes
