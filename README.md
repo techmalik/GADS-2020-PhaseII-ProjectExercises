@@ -44,6 +44,11 @@
 <summary>Lab 9: VPC Networking</summary>
   <img src="Screenshots/Lab 9 VPC Networking.png">
 </details>
+
+<details>
+<summary>Lab 9: Cloud IAM </summary>
+<img src="Screenshots/Lab 10 Cloud IAM.png">
+</details>
   
 
 
