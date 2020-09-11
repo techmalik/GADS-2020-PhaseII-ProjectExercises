@@ -60,6 +60,7 @@
 <details>
 <summary>Translation Code 1: Lab 11 Configuring an HTTP Load Balancer with Autoscaling </summary>
 
+
 1. Configure HTTP and health check firewall rules:
 ```
 gcloud compute --project=qwiklabs-gcp-508906201563c6b8 firewall-rules create fw-allow-health-checks --direction=INGRESS --priority=1000 --network=default --action=ALLOW --rules=tcp:80 --source-ranges=130.211.0.0/22,35.191.0.0/16 --target-tags=allow-health-checks
