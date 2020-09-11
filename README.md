@@ -58,7 +58,7 @@
 
 ## Translation Codes
 <details>
-<summary>Translation Code 1: Lab 11 Configuring an HTTP Load Balancer with Autoscaling </summary>
+<summary>Translation Code 1: Configuring an HTTP Load Balancer with Autoscaling </summary>
 
 
 1. Configure HTTP and health check firewall rules:
@@ -151,5 +151,6 @@ ab -n 500000 -c 1000 http://$LB_IP/
 
 
 <details>
-<summary>Translation Code 2: Lab 12 </summary>
+<summary>Translation Code 2: Virtual Private Networks (VPN) </summary>
+	
 </details>
